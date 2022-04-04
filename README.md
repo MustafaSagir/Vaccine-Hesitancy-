@@ -6,6 +6,6 @@ It includes the following Rcodes for different machine learning models
   2. Decison Tree
   3. Bagging
   4. Random Forest
-  5. XgBoost
+  5. XGBoost
 </br>
 This is a commit to readme file
